@@ -15,15 +15,26 @@ let score1="34abc" //not pure number =>NaN (Not a Number)
 //score1= null
 //console.log(score1);
 
-let isLogged =1
-let booleanIslogged = Boolean(isLogged)
-console.log(booleanIslogged)
+// let isLogged =1
+// let booleanIslogged = Boolean(isLogged)
+// console.log(booleanIslogged)
 
 //1=> true 0=> false
 //" "=>false
 //"rohini" =>true
 
-let someNumber= 2001
-let string =String(someNumber)
-console.log(string);
-console.log(typeof string);
+// let someNumber= 2001
+// let string =String(someNumber)
+// console.log(string);
+// console.log(typeof string);
+
+
+
+// operations 
+// console.log("1");
+// console.log("1"+3)
+// console.log("1"+2+2);
+// console.log(1+4+"5");
+// console.log((1+4)+"5");
+//console.log(true+);
+console.log(+true);
