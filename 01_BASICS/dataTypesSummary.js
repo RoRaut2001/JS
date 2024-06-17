@@ -3,6 +3,7 @@
 
 //primitive  --7
 // string, number, boolean, null, undefined, Symbol, BigInt
+//symbol --> to make a value as unique.
 
 
 // return type of val
@@ -15,6 +16,9 @@
 
 // java script is dynamically typed or statically typed language??
 // dynamically typed language
+
+//type script----> whcih define the type of data types
+// const score: number=100;
 
 const score=100
 const scoreValue= 100.4
@@ -35,8 +39,8 @@ console.log(id == id2);
 const bigNumber = 3483296429734863278642387n //n -> convert number into bigInt
 console.log(bigNumber);
 
-// non primitive
 
+// non primitive
 
 const heros=["sk","pk","gk"]; //array
 let myObj={ 
